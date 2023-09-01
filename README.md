@@ -2,4 +2,4 @@
 good password list Generate from python 
 
 ## Installation 📩
-No need to install any library
+No need to install any library 🙃
